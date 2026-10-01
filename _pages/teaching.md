@@ -6,7 +6,7 @@ author_profile: true
 
 I received the Harris School of Public Policy's **Outstanding Teaching Assistant of the Year Award** in 2026.
 
-[Teaching Statement](/files/Curran_Teaching_Statement.pdf) · [Evidence of Teaching Effectiveness](/files/Curran_Evidence_of_Teaching_Effectiveness.pdf)
+[Evidence of Teaching Effectiveness](/files/Curran_Evidence_of_Teaching_Effectiveness.pdf)
 
 Instructor
 ------
