@@ -21,6 +21,7 @@ Individuals are commonly assumed to be more disadvantaged in higher-cost areas. 
 </details>
 
 **[Misleading Estimates from Nonlinear Models with a Binary Outcome](/files/Misleading_Estimates.pdf)** (with Bruce D. Meyer and Derek Wu) 
+
 *Under review*
 
 <details style="margin-top: -0.75em; margin-bottom: 1.75em;">
