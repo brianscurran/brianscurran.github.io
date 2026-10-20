@@ -14,7 +14,7 @@ Instructor
 
 Undergraduate
 ------
-- **BA Thesis Seminar**, Preceptor (2024–2026)
+- **BA Thesis Seminar**, Preceptor (2024–2027)
 - **Expanding Discovery in Economics+**, TA, Chicago Booth (2025–2026)
 - **Expanding Diversity in Economics**, TA, Becker Friedman Institute (2024)
 - **Introductory Game Theory**, Lead TA for Prof. Fang (2023–2024)
@@ -29,7 +29,7 @@ Graduate
 - **Advanced Statistics for Data Analysis I**, Head TA for Prof. Black (2024)
 - **Principles of Microeconomics and Public Policy II**, Head TA for Prof. Sonin (2023–2024)
 - **Game Theory (PhD)**, Head TA for Prof. Sonin (2023)
-- **Principles of Microeconomics and Public Policy I**, Head TA for Prof. Brot-Goldberg (2022)
+- **Principles of Microeconomics and Public Policy I**, Head TA for Prof. Brot (2022)
 
 Executive Education
 ------
