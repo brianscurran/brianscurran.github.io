@@ -38,6 +38,8 @@
     "layout/json_cv"
 ;
 
-.author__avatar {
-  display: none;
+.author__avatar img {
+  border-radius: 4px;
+  padding: 0;
+  border: 0;
 }
