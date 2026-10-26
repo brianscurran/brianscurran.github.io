@@ -83,7 +83,7 @@
     padding-top: 0 !important;
   }
 
-  .author--home {
+  .author-profile {
     display: grid;
     grid-template-columns: 110px minmax(0, 1fr);
     grid-template-areas:
@@ -94,6 +94,17 @@
 
     > .author__avatar {
       grid-area: photo;
+      display: block;
+      width: auto;
+      margin: 0;
+    }
+
+    .author__avatar img {
+      display: block;
+      width: 100%;
+      max-width: 100%;
+      height: auto;
+      margin: 0;
     }
 
     .author__content {
