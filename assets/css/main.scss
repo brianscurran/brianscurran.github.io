@@ -42,4 +42,22 @@
   border-radius: 4px;
   padding: 0;
   border: 0;
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+}
+
+.author__avatar {
+  display: block;
+  width: 160px;
+  margin-bottom: 15px;
+
+  @include breakpoint($large) {
+    width: auto;
+    margin-bottom: 0;
+  }
+}
+
+.author__content {
+  padding-left: 0;
 }
