@@ -6,7 +6,7 @@ author_profile: true
 
 Job Market Paper
 ------
-**The Rise of Non-Employment Among Prime-Aged Men: Trends, Household Support, and Persistence**<br>
+**[The Rise of Non-Employment Among Prime-Aged Men: Trends, Household Support, and Persistence](/files/Curran_JMP.pdf)**<br>
 (with Bruce D. Meyer and Derek Wu)
 
 <details style="margin-top: -0.75em; margin-bottom: 1.75em;">
@@ -35,7 +35,7 @@ Individuals are commonly assumed to be more disadvantaged in higher-cost areas. 
 When estimating nonlinear models for binary outcomes, such as probit and logit models, researchers often rely on average partial effects (APEs) to summarize the effect of a regressor. Because the marginal effect of a variable in these models depends on the values of all other variables, the value of an APE hinges on the portion of the sample used for the calculations. When averaged over parts of the sample drawn from a subpopulation not used to define the object of interest, the APE may be misleading. This paper highlights common situations, such as differences-in-means with a secondary group and difference-in-differences designs, where APEs calculated for the full sample deviate from marginal effects for the appropriate part of the sample. We propose a simple and costless solution in specific cases and demonstrate through simulations that recalculating APEs over the appropriate subsample yields unbiased results. Reexamining published results from multiple papers, we find statistically significant discrepancies between the reported estimates and the appropriately calculated APEs.
 </details>
 
-**Innovation and Health Behavior: Evidence from the American Public Bath Movement**<br>
+**[Innovation and Health Behavior: Evidence from the American Public Bath Movement](/files/Bathhouses.pdf)**<br>
 (with Michael McKelligott)
 
 <details style="margin-top: -0.75em; margin-bottom: 1.75em;">
